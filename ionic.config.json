@@ -1,0 +1,7 @@
+{
+  "name": "nikeionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
